@@ -55,7 +55,7 @@ body::before{
     font-weight: 600;
 }
 .menu-items:hover{
-    color:var(--fourth-color);
+   color: var(--secondary-color);
 }
 .menu-icon {
     display: none;
