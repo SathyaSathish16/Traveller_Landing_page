@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:wght@500&display=swap');
 *{
-    font-family: "Poppins", serif;
+    font-family: "Poppins", se
 }
 :root{
     --primary-color:#FFF8DE;
@@ -79,6 +79,7 @@ body::before{
       width: 100%;
       background-color: var(--fourth-color);
       position: absolute;
+	z-index:2
       top: 70px;
       left: 0;
       text-align: center;
